@@ -16,7 +16,7 @@ While historically, this tabulation has occured in excel, the election managemen
 
 The audit showed that a total of **360,711** votes were casted in the Congressional Election.
 
-The following is a breakdown of the number of votes & the percentage of total votes for each county in the precinct:
+The following table view is a breakdown of the number of votes & the percentage of total votes for each county in the precinct:
 
 | County        | Votes Casted  | % of Total Votes |
 | ------------- | ------------- | -----------------|
@@ -24,9 +24,19 @@ The following is a breakdown of the number of votes & the percentage of total vo
 | Jefferson     | 38,855        | 10.5%            |
 | Arapahoe      | 24,801        | 6.7%             |
 
-## County Results by County votes casted
+Denver county was the county with the largest voter turnout by far taking over 80% of the vote.  Jefferson and Arapahoe struggled with voter turnout, both accounting for the rest of 17.2% of the voter turnout.
+
 
 ## Candidate Vote Breakdown
+
+|Candidate Name   | Votes Casted  | % of Total Votes |
+| -------------   | ------------- | -----------------|
+| Diana Degette   | 306,055       | 82.8%            |
+| Charles 
+  Casper Stockham | 38,855        | 10.5%            |
+| Raymon 
+  Anthony Doane   | 24,801        | 6.7%             |
+
 
   Provide a breakdown of the number of votes and the percentage of the total votes each candidate received.
   
