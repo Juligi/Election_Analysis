@@ -14,9 +14,9 @@ While historically, this tabulation has occured in excel, the election managemen
 
 # Election Results Summary
 
-* Total Number of Votes casted in the Congressional Elections: 369,711 
+The audit showed that a total of **360,711** votes were casted in the Congressional Election.
 
-* Breakdown of the number of votes & the percentage of total votes for each county in the precinct:
+The following is a breakdown of the number of votes & the percentage of total votes for each county in the precinct:
 
 | County        | Votes Casted  | % of Total Votes |
 | ------------- | ------------- | -----------------|
