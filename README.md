@@ -29,13 +29,11 @@ Denver county was the county with the largest voter turnout by far taking over 8
 
 ## Candidate Vote Breakdown
 
-|Candidate Name   | Votes Casted  | % of Total Votes |
-| -------------   | ------------- | -----------------|
-| Diana Degette   | 306,055       | 82.8%            |
-| Charles 
-  Casper Stockham | 38,855        | 10.5%            |
-| Raymon 
-  Anthony Doane   | 24,801        | 6.7%             |
+|Candidate Name           | Votes Casted  | % of Total Votes |
+| -------------           | ------------- | -----------------|
+| Diana Degette           | 306,055       | 82.8%            |
+| Charles Casper Stockham | 38,855        | 10.5%            |
+| Raymon Anthony Doane    | 24,801        | 6.7%             |
 
 
   Provide a breakdown of the number of votes and the percentage of the total votes each candidate received.
