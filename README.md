@@ -10,12 +10,19 @@ This project requires aiding a mock Colorado Board of Elections Employee, Tom, i
 3) the percentage of votes for each candidate
 4) the winner of the election based on the popular vote
 
-While historically, this tabulation has occured in excel, the election management wants to automate the process using Python for this election and re-use the code for future elections, to include senatorial districts and local elections.  The key goal is to general a vote count report to certify the U.S. Congressional race.  
+While historically, this tabulation has occured in excel, the election management wants to automate the process using Python for this election and re-use the code for future elections, to include senatorial districts and local elections.  The key goal is to generate a vote count report to certify the U.S. Congressional race.  
 
-## Total Number of Votes casted in the Congressional Elections
+# Election Results Summary
 
+* Total Number of Votes casted in the Congressional Elections: 369,711 
 
-## Breakdown of the number of votes & the percentage of total votes for each county in the precinct.
+* Breakdown of the number of votes & the percentage of total votes for each county in the precinct:
+
+| County        | Votes Casted  | % of Total Votes |
+| ------------- | ------------- | -----------------|
+| Denver        | 306,055       | 82.8%            |
+| Jefferson     | 38,855        | 10.5%            |
+| Arapahoe      | 24,801        | 6.7%             |
 
 ## County Results by County votes casted
 
