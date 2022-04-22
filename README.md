@@ -29,6 +29,8 @@ Denver county was the county with the largest voter turnout by far taking over 8
 
 ## Candidate & Associated Vote Breakdown
 
+Diana Degette won the congressional race by landslide.  Ms. Degette received 73.8% of the vote for a total of 272,892 the winning vote count. Below is full breakdown of the 2nd and 3rd place candidates, depicting a full breakdown of the number of votes and the percentage of the total votes each candidate received. 
+
 |Candidate Name           | Votes Casted  | % of Total Votes |
 | -------------           | ------------- | -----------------|
 | Diana Degette           | 272,892       | 73.8%            |
@@ -36,9 +38,7 @@ Denver county was the county with the largest voter turnout by far taking over 8
 | Raymon Anthony Doane    | 11,606        | 3.1%             |
 
 
-  Provide a breakdown of the number of votes and the percentage of the total votes each candidate received.
-  
- ## Which candidate won the election, what was their vote count, and what was their percentage of the total votes? 
+ 
  
  
 # Election-Audit Summary: In a summary statement, provide a business proposal to the election commission on how this script can be used—with some modifications—for any election. Give at least two examples of how this script can be modified to be used for other elections.
