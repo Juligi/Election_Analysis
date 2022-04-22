@@ -27,13 +27,13 @@ The following table view is a breakdown of the number of votes & the percentage 
 Denver county was the county with the largest voter turnout by far taking over 80% of the vote.  Jefferson and Arapahoe struggled with voter turnout, both accounting for the rest of 17.2% of the voter turnout.
 
 
-## Candidate Vote Breakdown
+## Candidate & Associated Vote Breakdown
 
 |Candidate Name           | Votes Casted  | % of Total Votes |
 | -------------           | ------------- | -----------------|
-| Diana Degette           | 306,055       | 82.8%            |
-| Charles Casper Stockham | 38,855        | 10.5%            |
-| Raymon Anthony Doane    | 24,801        | 6.7%             |
+| Diana Degette           | 272,892       | 73.8%            |
+| Charles Casper Stockham | 85,213        | 23%              |
+| Raymon Anthony Doane    | 11,606        | 3.1%             |
 
 
   Provide a breakdown of the number of votes and the percentage of the total votes each candidate received.
