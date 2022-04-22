@@ -2,7 +2,8 @@
 Election Analysis using Python for learning purposes
 
 
-#Election Audit Project Overview:
+# Election Audit Project Overview:
+
 This project requires aiding a mock Colorado Board of Elections Employee, Tom, in an election audit of the tabulated results for US Congressional precinct in Colorado.  As the team-member, I am tasked with with:
 1) reporting the total number of votes cast
 2) the total number of votes for each candidate
