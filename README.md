@@ -66,8 +66,9 @@ county_votes = {}
 
 to a new a city list and city votes dictionary for example:
 ```
-# Create a county list and county votes dictionary.
+# Create a city list and city votes dictionary.
 city_names = []
 city_votes = {}
 ```
 
+In conclusion,the election commission can use [this Pypoll_challenge script](https://pages.github.com/) with some modifications—for any future election.
