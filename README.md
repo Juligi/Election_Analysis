@@ -57,3 +57,17 @@ _(This is code instruction for  future election audit developer: Add a variable 
  file_to_save = os.path.join("analysis", "election_analysis.txt")
 ```
 
+Lastly, the script and election_result.csv file can be easily modified for future usage and election-audit analysis by simply changing the variables, and changing/creating new state, county or city list and city or state dictionaries, to now go from 
+```
+# Create a county list and county votes dictionary.
+county_names = []
+county_votes = {}
+```
+
+to a new a city list and city votes dictionary for example:
+```
+# Create a county list and county votes dictionary.
+city_names = []
+city_votes = {}
+```
+
