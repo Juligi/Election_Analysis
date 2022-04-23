@@ -71,4 +71,4 @@ city_names = []
 city_votes = {}
 ```
 
-In conclusion,the election commission can use [this Pypoll_challenge script](https://pages.github.com/) with some modifications—for any future election.
+In conclusion,the election commission can use [this Pypoll_challenge script](https://github.com/Juligi/Election_Analysis/blob/main/PyPoll_Challenge.py) with some modifications—for any future election.
