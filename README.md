@@ -47,10 +47,12 @@ Overall the election-audit was a success and a fundmental effort for future simp
 The simplest method, would to create an ongoing election results template for each election, and when a new election is ran, the exisiting Pypoll script can be modified in the variable to load the new and specific election file from the saved path.  Code examples are added below for reference:
 
 _(This is code instruction for future election audit developer) add a variable to load the specific election file from a path_.
+
 '''
   **Code to Change** **_file_to_load = os.path.join("Resources", "election_results.csv")_**
-
+'''
 _(This is code instruction for  future election audit developer) Add a variable to save the file to a path._
+ ''' 
   **Code to Change** **_file_to_save = os.path.join("analysis", "election_analysis.txt")_**
  '''
 
