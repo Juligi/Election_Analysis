@@ -38,16 +38,15 @@ Diana Degette won the congressional race by landslide.  Ms. Degette received 73.
 | Raymon Anthony Doane    | 11,606        | 3.1%             |
 
 
-#Election-Audit Summary & Future Recommendations:
+# Election-Audit Summary & Future Recommendations:
  
 Overall the election-audit was a success and a fundmental effort for future simplication and establishment of an ongoing standard operating procedure (SOP).  Simply,  re-using an election file template, the commission can re-use for loops, repetition and conditional statements with membership and logical operators to find the requested results for various and unique future elections across the state.   
 
-##For future usage & SOP:
+## For future usage & SOP:
 
-* The simplest method, would to create an ongoing election results template for each election, and when a new election is ran, the exisiting Pypoll script can be modified in the variable to load the specific election file from the saved path.  Code example below:
-- 
-_(Code instruction for developer) add a variable to load a file from a path_.
-**Code to Change** **_file_to_load = os.path.join("Resources", "election_results.csv")_**
+The simplest method, would to create an ongoing election results template for each election, and when a new election is ran, the exisiting Pypoll script can be modified in the variable to load the specific election file from the saved path.  Code example below:
+*_(Code instruction for developer) add a variable to load a file from a path_.
+-**Code to Change** **_file_to_load = os.path.join("Resources", "election_results.csv")_**
 _(Code instruction for developer) Add a variable to save the file to a path._
 **Code to Change** **_file_to_save = os.path.join("analysis", "election_analysis.txt")_**
  
