@@ -48,10 +48,11 @@ The simplest method, would to create an ongoing election results template for ea
 
 _(This is code instruction for future election audit developer) add a variable to load the specific election file from a path_.
 
-```**_file_to_load = os.path.join("Resources", "election_results.csv")_**
+```file_to_load = os.path.join("Resources", "election_results.csv")
 ```
 _(This is code instruction for  future election audit developer) Add a variable to save the file to a path._
+
 ```
- **_file_to_save = os.path.join("analysis", "election_analysis.txt")_**
+ file_to_save = os.path.join("analysis", "election_analysis.txt")
 ```
 
